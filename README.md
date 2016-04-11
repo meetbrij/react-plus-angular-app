@@ -79,4 +79,4 @@ npm install
 npm start
 ```
 
-The above project was created by following the steps given in the tutorial at [Eduonix](https://www.udemy.com/learn-angularjs-development/)
+The above project was created by following the steps given in the tutorial at [Orielly](http://shop.oreilly.com/product/0636920045212.do)
