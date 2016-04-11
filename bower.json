@@ -1,0 +1,23 @@
+{
+  "name": "react-plus-angular",
+  "description": "Basic angular plus react app",
+  "main": "index.js",
+  "authors": [
+    "brijesh bolar"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.3",
+    "angular-ui-router": "ui-router#^0.2.18",
+    "skeleton": "^2.0.4",
+    "react": "^15.0.1"
+  }
+}
